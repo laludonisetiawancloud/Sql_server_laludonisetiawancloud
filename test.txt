@@ -1,0 +1,14 @@
+{
+    "ClassName": "System.NullReferenceException",
+    "Message": "Object reference not set to an instance of an object.",
+    "Data": null,
+    "InnerException": null,
+    "HelpURL": null,
+    "StackTraceString": "   at ITPI.eProc.Vale.Data.Services.ContractRequisitionService.SendLess3Approval(Int32 contractRequisitionId, String username, String issuerRemark) in C:\\Users\\ednan\\source\\repos\\trakindo-github\\ITPI.eProc.Trakindo.Data\\Services\\ContractRequisitionService.cs:line 3377\r\n   at ITPI.eProc.Trakindo.WebAPI.Controllers.ContractRequisitionController.SendLess3Approval(ContractRequisitionLessThan3ApprovalModel param) in C:\\Users\\ednan\\source\\repos\\trakindo-github\\ITPI.eProc.Trakindo.WebAPI\\Controllers\\ContractRequisitionController.cs:line 2243",
+    "RemoteStackTraceString": null,
+    "RemoteStackIndex": 0,
+    "ExceptionMethod": "8\nSendLess3Approval\nITPI.eProc.Vale.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null\nITPI.eProc.Vale.Data.Services.ContractRequisitionService\nVoid SendLess3Approval(Int32, System.String, System.String)",
+    "HResult": -2147467261,
+    "Source": "ITPI.eProc.Vale.Data",
+    "WatsonBuckets": null
+}
